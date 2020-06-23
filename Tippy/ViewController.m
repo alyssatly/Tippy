@@ -25,7 +25,7 @@
 }
 
 - (IBAction)onTap:(id)sender {
-    NSLog(@"Hello");
+    NSLog(@"Hello1");
     // self.view.endEditing(YES);
     [self.view endEditing:YES];
 }
